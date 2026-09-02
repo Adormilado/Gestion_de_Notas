@@ -1,4 +1,4 @@
-# Interfaz_De_Notas
+# Gestion_de_Notas
 
 ## Descripción
 Elegi 'Notes App' (Tier 1 de App Ideas) porque resuelve la necesidad de crear, editar, eliminar y almacenar notas personales de forma persistente y rápida sin depender de herramientas en la nube, con un alcance adecuado para completarse de forma funcional en el tiempo disponible.
